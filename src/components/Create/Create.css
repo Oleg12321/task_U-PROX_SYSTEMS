@@ -1,0 +1,20 @@
+textarea {
+  resize: none;  
+}
+
+.form-control {
+  width: 300px;
+}
+
+.input__wrapper{
+  margin-bottom: 20px;
+}
+
+.form--bg {
+  background-color: #0040ff4f;
+  border-radius: 8px;
+}
+
+.form--heading{
+  color: #000000b8;
+}
